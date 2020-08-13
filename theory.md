@@ -72,7 +72,7 @@ Where, R<sub>shock</sub> = Shock resistance                    (Ns<sup>2</sup>/m
 
 We can write shock resistance, R<sub>shock</sub> as
 
-R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>)                        (Ns<sup>2</sup>/m<sub>8</sub>)
+R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>)                        (Ns<sup>2</sup>/m<sup>8</sup>)
 
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
