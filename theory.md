@@ -66,13 +66,13 @@ A=Area of cross section                                        (m<sub>2</sub>) <
 
 In analogy with Atkinson’s equation and square law, the above equation can be transformed as
 
-P<sup>shock</sup> = 𝑋𝜌V2/2 = 𝑋𝜌𝑄 2/(2𝐴2) = R𝑠ℎ𝑜𝑐𝑘 𝑄2             (Pa)
+P<sub>shock</sub> = 𝑋𝜌V2/2 = 𝑋𝜌𝑄 2/(2𝐴2) = R𝑠ℎ𝑜𝑐𝑘 𝑄2             (Pa)
 
 Where, R𝑠ℎ𝑜𝑐𝑘 = Shock resistance                                  (Ns2/m8 ) 
 
 We can write shock resistance, R𝑠ℎ𝑜𝑐𝑘 as
 
-R<sup>shock</sup> = 𝑋 𝜌/(2𝐴<sub>2</sub>)                                                    (Ns2/m8 )
+R<sub>shock</sub> = 𝑋 𝜌/(2𝐴<sup>2</sup>)                                                    (Ns2/m8 )
 
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
