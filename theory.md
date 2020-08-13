@@ -74,6 +74,13 @@ We can write shock resistance, R<sub>shock</sub> as
 
 R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>)                        (Ns<sup>2</sup>/m<sup>8</sup>)
 
+
+<p style="text-indent:50px;text-align:justify">Suppose that in a sub-surface airway at length L, there is a other cause of a shock loss. The resistance of the airway will be greater than if that same airway contained no shock loss. We can express that additional resistance, R<sub>shock</sub>, in terms of the length of corresponding straight airways which would have that same value of shock resistance. This ‘equivalent length’ of shock loss ‘L<sub>eq</sub>’ may be incorparted to give an Atkinson’s resistance</p>
+
+It can be written mathematically as
+
+P = R<sub>frictional</sub>Q<sup>2</sup> + R<sub>shock</sub>𝑄<sup>2</sup> = kL(perimeter 𝜌/(𝐴<sup>3</sup>×1.2))Q<sup>2</sup> + X𝜌Q<sup>2</sup> /(2A<sup>2</sup>)                       
+
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
 </center>
