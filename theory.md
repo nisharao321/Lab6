@@ -39,7 +39,7 @@ p<sub>stock</sub> ∝ 𝜌V<sup>2</sup>/2  i.e inertial stress
 
 or
 
-P<sub>𝑠ℎ𝑜𝑐𝑘</sub> = 𝑋𝜌V<sup>2</sup>/2     (Pa)         
+P<sub>shock</sub> = 𝑋𝜌V<sup>2</sup>/2     (Pa)         
 
 Where,
 
@@ -66,13 +66,13 @@ A = Area of cross section                                        (m<sup>2</sup>)
 
 In analogy with Atkinson’s equation and square law, the above equation can be transformed as
 
-P<sub>shock</sub> = 𝑋𝜌V2/2 = 𝑋𝜌𝑄<sup>2</sup>/(2𝐴<sup>2</sup>) = R<sub>shock</sub> Q<sup>2</sup>             (Pa)
+P<sub>shock</sub> = X𝜌V<sup>2</sup>/2 = X𝜌Q<sup>2</sup>/(2A<sup>2</sup>) = R<sub>shock</sub>Q<sup>2</sup>             (Pa)
 
 Where, R<sub>shock</sub> = Shock resistance                    (Ns<sub>2</sub>/m<sub>8</sub>) 
 
-We can write shock resistance, R<sub>shock</sub>as
+We can write shock resistance, R<sub>shock</sub> as
 
-R<sub>shock</sub> = 𝑋𝜌/(2𝐴<sup>2</sup>)                                                    (Ns2/m8 )
+R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>)                                                    (Ns<sub>2</sub>/m<sub>8</sub>)
 
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
