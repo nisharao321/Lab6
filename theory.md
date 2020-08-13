@@ -35,11 +35,11 @@ K = Atkinson’s friction factor or coefficient of Atkinson’s resistance. (Ns<
 
 Mathematically,
 
-p<sub>stock</sub>∝𝜌V<sub>2</sub>/2  i.e inertial stress
+p<sub>stock</sub>∝𝜌V<sup>2</sup>/2  i.e inertial stress
 
 or
 
-P<sub>𝑠ℎ𝑜𝑐𝑘</sub>= 𝑋𝜌V<sub>2</sub>/2     (Pa)         
+P<sub>𝑠ℎ𝑜𝑐𝑘</sub>= 𝑋𝜌V<sup>2</sup>/2     (Pa)         
 
 Where,
 
@@ -53,26 +53,26 @@ Substituting
 
 V= ,we get <br>
 
-P<sup>shock</sup>=X𝜌V<sub>2</sub>/2=X𝜌Q<sub>2</sub>/(2A<sub>2</sub>)     (Pa)</br>
+P<sub>shock</sub>=X𝜌V<sup>2</sup>/2=X𝜌Q<sup>2</sup>/(2A<sup>2</sup>)     (Pa)</br>
 
 Where,  <br>
 X=Shock loss factor                                            (dimensionless) </br>
 
-𝜌=Density of air                                               (kg/<sub>3</sub>) </br>
+𝜌=Density of air                                               (kg/m<sup>3</sup>) </br>
 
-Q=Quantity of airflow                                          (m<sub>3</sub>/s) </br>
+Q=Quantity of airflow                                          (m<sup>3</sup>/s) </br>
 
-A=Area of cross section                                        (m<sub>2</sub>) </br>
+A=Area of cross section                                        (m<sup>2</sup>) </br>
 
 In analogy with Atkinson’s equation and square law, the above equation can be transformed as
 
-P<sub>shock</sub> = 𝑋𝜌V2/2 = 𝑋𝜌𝑄 2/(2𝐴2) = R𝑠ℎ𝑜𝑐𝑘 𝑄2             (Pa)
+P<sub>shock</sub> = 𝑋𝜌V2/2 = 𝑋𝜌𝑄<sup>2</sup>/(2𝐴<sup>2</sup>) = R<sub>shock</sub> Q<sup>2</sup>             (Pa)
 
-Where, R𝑠ℎ𝑜𝑐𝑘 = Shock resistance                                  (Ns2/m8 ) 
+Where, R<sub>shock</sub> = Shock resistance                    (Ns<sub>2</sub>/m<sub>8</sub>) 
 
-We can write shock resistance, R𝑠ℎ𝑜𝑐𝑘 as
+We can write shock resistance, R<sub>shock</sub>as
 
-R<sub>shock</sub> = 𝑋 𝜌/(2𝐴<sup>2</sup>)                                                    (Ns2/m8 )
+R<sub>shock</sub> = 𝑋𝜌/(2𝐴<sup>2</sup>)                                                    (Ns2/m8 )
 
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
