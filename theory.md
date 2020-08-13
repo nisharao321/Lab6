@@ -72,7 +72,7 @@ Where, R𝑠ℎ𝑜𝑐𝑘 = Shock resistance                                  
 
 We can write shock resistance, R𝑠ℎ𝑜𝑐𝑘 as
 
-R<sup>shock<sup> = 𝑋 𝜌/(2𝐴2)                                                    (Ns2/m8 )
+R<sup>shock</sup> = 𝑋 𝜌/(2𝐴2)                                                    (Ns2/m8 )
 
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
