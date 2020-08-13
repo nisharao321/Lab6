@@ -79,7 +79,7 @@ R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>)                        (Ns<sup>2</sup
 
 It can be written mathematically as
 
-P = R<sub>frictional</sub>Q<sup>2</sup> + R<sub>shock</sub>𝑄<sup>2</sup> = kL(perimeter 𝜌/(𝐴<sup>3</sup>×1.2))Q<sup>2</sup> + X𝜌Q<sup>2</sup> /(2A<sup>2</sup>)                       
+P = R<sub>frictional</sub>Q<sup>2</sup> + R<sub>shock</sub>Q<sup>2</sup> = kL(perimeter 𝜌/(A<sup>3</sup>×1.2))Q<sup>2</sup> + X𝜌Q<sup>2</sup> /(2A<sup>2</sup>)                       
 
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
