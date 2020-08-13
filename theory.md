@@ -43,17 +43,17 @@ P<sub>𝑠ℎ𝑜𝑐𝑘</sub>= 𝑋𝜌V<sub>2</sub>/2     (Pa)
 
 Where,
 
-X=Shock loss factor      (dimensionless)<br>
-𝜌=Density of air         (kg/m3 ) <br>
-v=Velocity of air        (m/s)<br>
+X=Shock loss factor      (dimensionless)</br>
+𝜌=Density of air         (kg/m3 ) </br>
+v=Velocity of air        (m/s)</br>
 Substituting 
 V= ,we get <br>
-P<sup>shock</sup>=X𝜌V<sub>2</sub>/2=X𝜌Q<sub>2</sub>/(2A<sub>2</sub>)     (Pa)<br>
+P<sup>shock</sup>=X𝜌V<sub>2</sub>/2=X𝜌Q<sub>2</sub>/(2A<sub>2</sub>)     (Pa)</br>
 Where,  <br>
-X=Shock loss factor                                            (dimensionless) <br>
-𝜌=Density of air                                               (kg/<sub>3</sub>) <br>
-Q=Quantity of airflow                                          (m<sub>3</sub>/s) <br>
-A=Area of cross section                                        (m<sub>2</sub>) <br>
+X=Shock loss factor                                            (dimensionless) </br>
+𝜌=Density of air                                               (kg/<sub>3</sub>) </br>
+Q=Quantity of airflow                                          (m<sub>3</sub>/s) </br>
+A=Area of cross section                                        (m<sub>2</sub>) </br>
 In analogy with Atkinson’s equation and square law, the above equation can be transformed as
 P<sup>shock</sup> = 𝑋𝜌V2/2 = 𝑋𝜌𝑄 2/(2𝐴2) = R𝑠ℎ𝑜𝑐𝑘 𝑄2             (Pa)
  Where, R𝑠ℎ𝑜𝑐𝑘 = Shock resistance                          (Ns2/m8 ) 
