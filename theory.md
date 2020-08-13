@@ -79,15 +79,15 @@ R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>).                        (Ns<sup>2</su
 
 It can be written mathematically as
 
-P = R<sub>frictional</sub>Q<sup>2</sup> + R<sub>shock</sub>Q<sup>2</sup> = kL(perimeter 𝜌/(A<sup>3</sup>×1.2))Q<sup>2</sup> + X𝜌Q<sup>2</sup> /(2A<sup>2</sup>).(Pa)               
+P = R<sub>frictional</sub>Q<sup>2</sup> + R<sub>shock</sub>Q<sup>2</sup> = kL(perimeter 𝜌/(A<sup>3</sup>×1.2))Q<sup>2</sup> + X𝜌Q<sup>2</sup> /(2A<sup>2</sup>). (Pa)               
 
-And  P = R<sub>𝑓𝑟𝑖𝑐𝑡𝑖𝑜𝑛𝑎𝑙</sub>Q<sup>2</sup> = K(L + L<sub>eq</sub>) (𝑝𝑒𝑟imeter 𝜌/(A<sup>3</sup>×1.2))Q<sup>2 </sup>.(Pa)
+And  P = R<sub>𝑓𝑟𝑖𝑐𝑡𝑖𝑜𝑛𝑎𝑙</sub>Q<sup>2</sup> = K(L + L<sub>eq</sub>) (𝑝𝑒𝑟imeter 𝜌/(A<sup>3</sup>×1.2))Q<sup>2 </sup>. (Pa)
 
 Equating the two equations, we have 
 
-R<sub>shock</sub> = X 𝜌/(2𝐴<sup>2</sup>)= kL<sub>eq</sub>( perimeter 𝜌/(𝐴<sup>3</sup>×1.2)).(Ns2/m8)
+R<sub>shock</sub> = X 𝜌/(2𝐴<sup>2</sup>)= kL<sub>eq</sub>( perimeter 𝜌/(𝐴<sup>3</sup>×1.2)). (Ns2/m8)
 
-Hence, L<sub>eq</sub> = 1.2X/2K A/(Perimeter).(m)
+Hence, L<sub>eq</sub> = 1.2X/2K A/(Perimeter). (m)
 
 In terms of hydraulic radius, we can express L<sub>eq</sub> as follow 
 
