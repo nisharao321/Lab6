@@ -19,7 +19,7 @@ Hence, extra work is done to maintain flow of air. Thus, resistance is produced.
 </p>
 
 <p style="text-indent:50px;text-align:justify">
-Shock losses are generally referred to in terms of head loss or drop in total pressure. This in turn is expressed in terms of ‘velocity heads’. It is represented as ‘P<sup>shock</sup>’.
+Shock losses are generally referred to in terms of head loss or drop in total pressure. This in turn is expressed in terms of ‘velocity heads’. It is represented as ‘P<sub>shock</sub>’.
 </p>
 
 <p style="text-indent:50px;text-align:justify">P = KSV<sup>2</sup>/A</p>
