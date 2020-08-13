@@ -35,34 +35,34 @@ K = Atkinson’s friction factor or coefficient of Atkinson’s resistance. (Ns<
 
 Mathematically,
 
-p<sub>stock</sub>∝𝜌V<sup>2</sup>/2  i.e inertial stress
+p<sub>stock</sub> ∝ 𝜌V<sup>2</sup>/2  i.e inertial stress
 
 or
 
-P<sub>𝑠ℎ𝑜𝑐𝑘</sub>= 𝑋𝜌V<sup>2</sup>/2     (Pa)         
+P<sub>𝑠ℎ𝑜𝑐𝑘</sub> = 𝑋𝜌V<sup>2</sup>/2     (Pa)         
 
 Where,
 
-X=Shock loss factor      (dimensionless)</br>
+X = Shock loss factor      (dimensionless)</br>
 
-𝜌=Density of air         (kg/m3 ) </br>
+𝜌 = Density of air         (kg/m3 ) </br>
 
-v=Velocity of air        (m/s)</br>
+v = Velocity of air        (m/s)</br>
 
 Substituting 
 
-V= ,we get <br>
+V = ,we get <br>
 
-P<sub>shock</sub>=X𝜌V<sup>2</sup>/2=X𝜌Q<sup>2</sup>/(2A<sup>2</sup>)     (Pa)</br>
+P<sub>shock</sub> = X𝜌V<sup>2</sup>/2 = X𝜌Q<sup>2</sup>/(2A<sup>2</sup>)     (Pa)</br>
 
 Where,  <br>
-X=Shock loss factor                                            (dimensionless) </br>
+X = Shock loss factor                                            (dimensionless) </br>
 
-𝜌=Density of air                                               (kg/m<sup>3</sup>) </br>
+𝜌 = Density of air                                               (kg/m<sup>3</sup>) </br>
 
-Q=Quantity of airflow                                          (m<sup>3</sup>/s) </br>
+Q = Quantity of airflow                                          (m<sup>3</sup>/s) </br>
 
-A=Area of cross section                                        (m<sup>2</sup>) </br>
+A = Area of cross section                                        (m<sup>2</sup>) </br>
 
 In analogy with Atkinson’s equation and square law, the above equation can be transformed as
 
