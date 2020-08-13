@@ -39,13 +39,13 @@ p<sub>stock</sub> ∝ 𝜌V<sup>2</sup>/2  i.e inertial stress
 
 or
 
-P<sub>shock</sub> = 𝑋𝜌V<sup>2</sup>/2     (Pa)         
+P<sub>shock</sub> = X𝜌V<sup>2</sup>/2     (Pa)         
 
 Where,
 
 X = Shock loss factor      (dimensionless)</br>
 
-𝜌 = Density of air         (kg/m3 ) </br>
+𝜌 = Density of air         (kg/m<sup>3</sup>) </br>
 
 v = Velocity of air        (m/s)</br>
 
@@ -68,11 +68,11 @@ In analogy with Atkinson’s equation and square law, the above equation can be 
 
 P<sub>shock</sub> = X𝜌V<sup>2</sup>/2 = X𝜌Q<sup>2</sup>/(2A<sup>2</sup>) = R<sub>shock</sub>Q<sup>2</sup>             (Pa)
 
-Where, R<sub>shock</sub> = Shock resistance                    (Ns<sub>2</sub>/m<sub>8</sub>) 
+Where, R<sub>shock</sub> = Shock resistance                    (Ns<sup>2</sup>/m<sup>8</sup>) 
 
 We can write shock resistance, R<sub>shock</sub> as
 
-R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>)                                                    (Ns<sub>2</sub>/m<sub>8</sub>)
+R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>)                        (Ns<sup>2</sup>/m<sub>8</sub>)
 
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
