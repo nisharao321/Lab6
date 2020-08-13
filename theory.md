@@ -35,11 +35,11 @@ K = Atkinson’s friction factor or coefficient of Atkinson’s resistance. (Ns<
 
 Mathematically,
 
-p<sup>stock</sup>∝𝜌V<sub>2</sub>/2  i.e inertial stress
+p<sub>stock</sub>∝𝜌V<sub>2</sub>/2  i.e inertial stress
 
 or
 
-P<sup>𝑠ℎ𝑜𝑐𝑘</sup>= 𝑋𝜌V<sub>2</sub>/2     (Pa)         
+P<sub>𝑠ℎ𝑜𝑐𝑘</sub>= 𝑋𝜌V<sub>2</sub>/2     (Pa)         
 
 Where,
 
@@ -58,7 +58,7 @@ In analogy with Atkinson’s equation and square law, the above equation can be 
 P<sup>shock</sup> = 𝑋𝜌V2/2 = 𝑋𝜌𝑄 2/(2𝐴2) = R𝑠ℎ𝑜𝑐𝑘 𝑄2             (Pa)
  Where, R𝑠ℎ𝑜𝑐𝑘 = Shock resistance                          (Ns2/m8 ) 
 We can write shock resistance, R𝑠ℎ𝑜𝑐𝑘 as
- R𝑠ℎ𝑜𝑐𝑘 = 𝑋 𝜌/(2𝐴2)                                                    (Ns2/m8 )
+ R<sup>shock<sup> = 𝑋 𝜌/(2𝐴2)                                                    (Ns2/m8 )
 
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
