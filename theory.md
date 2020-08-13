@@ -22,12 +22,12 @@ Hence, extra work is done to maintain flow of air. Thus, resistance is produced.
 Shock losses are generally referred to in terms of head loss or drop in total pressure. This in turn is expressed in terms of ‘velocity heads’. It is represented as ‘P<sup>shock</sup>’.
 </p>
 
-<p style="text-indent:50px;text-align:justify">P=KSV<sup>2</sup>/A</p>
-<p style="text-indent:50px;text-align:justify">since Q=A*V</p>
-<p style="text-indent:50px;text-align:justify">P=KSQ<sup>2</sup>/A<sup>3</sup></p>
-<p style="text-indent:50px;text-align:justify">P=(KS/A<sup>3</sup>)*Q<sup>3</sup></p>
-<p style="text-indent:50px;text-align:justify">P=RQ<sup>2</sup></p>
-<p style="text-indent:10px;text-align:justify">Where, R=KS/A<sup>3</sup> = Atkinson’s resistance or frictional resistance of airway. (Ns<sup>2</sup>/m<sup>8</sup>)</p>
+<p style="text-indent:50px;text-align:justify">P = KSV<sup>2</sup>/A</p>
+<p style="text-indent:50px;text-align:justify">since Q = A*V</p>
+<p style="text-indent:50px;text-align:justify">P = KSQ<sup>2</sup>/A<sup>3</sup></p>
+<p style="text-indent:50px;text-align:justify">P = (KS/A<sup>3</sup>)*Q<sup>3</sup></p>
+<p style="text-indent:50px;text-align:justify">P = RQ<sup>2</sup></p>
+<p style="text-indent:10px;text-align:justify">Where, R = KS/A<sup>3</sup> = Atkinson’s resistance or frictional resistance of airway. (Ns<sup>2</sup>/m<sup>8</sup>)</p>
 
 Q = Quantity of air passing through the ventilation duct. (m<sup>3</sup>/sec)
 
