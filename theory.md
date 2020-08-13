@@ -56,30 +56,42 @@ V = ,we get <br>
 P<sub>shock</sub> = X𝜌V<sup>2</sup>/2 = X𝜌Q<sup>2</sup>/(2A<sup>2</sup>)     (Pa)</br>
 
 Where,  <br>
-X = Shock loss factor                                            (dimensionless) </br>
+X = Shock loss factor.                                            (dimensionless) </br>
 
-𝜌 = Density of air                                               (kg/m<sup>3</sup>) </br>
+𝜌 = Density of air.                                               (kg/m<sup>3</sup>) </br>
 
-Q = Quantity of airflow                                          (m<sup>3</sup>/s) </br>
+Q = Quantity of airflow.                                          (m<sup>3</sup>/s) </br>
 
-A = Area of cross section                                        (m<sup>2</sup>) </br>
+A = Area of cross section.                                       (m<sup>2</sup>) </br>
 
 In analogy with Atkinson’s equation and square law, the above equation can be transformed as
 
-P<sub>shock</sub> = X𝜌V<sup>2</sup>/2 = X𝜌Q<sup>2</sup>/(2A<sup>2</sup>) = R<sub>shock</sub>Q<sup>2</sup>             (Pa)
+P<sub>shock</sub> = X𝜌V<sup>2</sup>/2 = X𝜌Q<sup>2</sup>/(2A<sup>2</sup>) = R<sub>shock</sub>Q<sup>2</sup>.(Pa)
 
-Where, R<sub>shock</sub> = Shock resistance                    (Ns<sup>2</sup>/m<sup>8</sup>) 
+Where, R<sub>shock</sub> = Shock resistance.                    (Ns<sup>2</sup>/m<sup>8</sup>) 
 
 We can write shock resistance, R<sub>shock</sub> as
 
-R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>)                        (Ns<sup>2</sup>/m<sup>8</sup>)
+R<sub>shock</sub> = X𝜌/(2A<sup>2</sup>).                        (Ns<sup>2</sup>/m<sup>8</sup>)
 
 
 <p style="text-indent:50px;text-align:justify">Suppose that in a sub-surface airway at length L, there is a other cause of a shock loss. The resistance of the airway will be greater than if that same airway contained no shock loss. We can express that additional resistance, R<sub>shock</sub>, in terms of the length of corresponding straight airways which would have that same value of shock resistance. This ‘equivalent length’ of shock loss ‘L<sub>eq</sub>’ may be incorparted to give an Atkinson’s resistance</p>
 
 It can be written mathematically as
 
-P = R<sub>frictional</sub>Q<sup>2</sup> + R<sub>shock</sub>Q<sup>2</sup> = kL(perimeter 𝜌/(A<sup>3</sup>×1.2))Q<sup>2</sup> + X𝜌Q<sup>2</sup> /(2A<sup>2</sup>)                       
+P = R<sub>frictional</sub>Q<sup>2</sup> + R<sub>shock</sub>Q<sup>2</sup> = kL(perimeter 𝜌/(A<sup>3</sup>×1.2))Q<sup>2</sup> + X𝜌Q<sup>2</sup> /(2A<sup>2</sup>).(Pa)               
+
+And  P = R<sub>𝑓𝑟𝑖𝑐𝑡𝑖𝑜𝑛𝑎𝑙</sub>Q<sup>2</sup> = K(L + L<sub>eq</sub>) (𝑝𝑒𝑟imeter 𝜌/(A<sup>3</sup>×1.2))Q<sup>2 </sup>.(Pa)
+
+Equating the two equations, we have 
+
+R<sub>shock</sub> = X 𝜌/(2𝐴<sup>2</sup>)= kL<sub>eq</sub>( perimeter 𝜌/(𝐴<sup>3</sup>×1.2)).(Ns2/m8)
+
+Hence, L<sub>eq</sub> = 1.2X/2K A/(Perimeter).(m)
+
+In terms of hydraulic radius, we can express L<sub>eq</sub> as follow 
+
+L<sub>eq</sub> = (1.2X)/8Kd                                                                                                                        
 
 <!-- <center>
   <img src="images/graph1.png" height="253" width="300">
